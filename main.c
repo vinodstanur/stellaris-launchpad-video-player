@@ -8,6 +8,8 @@ homepage: http://blog.vinu.co.in
 compiler: arm-none-eabi-gcc (summon arm toolchain)
 Copyright (C) <2013> <http://blog.vinu.co.in>
 
+(if possible, please try to keep the above details as it is....)
+
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
 the Free Software Foundation, either version 3 of the License, or
